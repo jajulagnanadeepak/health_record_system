@@ -10,7 +10,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Dashboard from './components/Dashboard';
 import Doctors_Dashboard from './components/Doctors_Dashboard';
 import Patients from './components/Patients';
-import Forget_Password from './components/forget_Password';
+import Forget_Password from './components/Forget_Password';
 
 function App() {
   const [count, setCount] = useState(0);
